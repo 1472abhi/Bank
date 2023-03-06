@@ -1,0 +1,37 @@
+
+.customers .table {
+    margin-bottom: 5vh !important;
+  }
+  
+  .customers .container {
+    text-align: center !important;
+  }
+  
+  .customers #transfer,
+  .customers .message {
+    display: none;
+  }
+  
+  .customers #checkBalance {
+    display: none;
+  }
+  
+  .customers .choice {
+    margin-top: 5vh;
+  }
+  
+  .customers .back {
+    padding: 1vh !important;
+  }
+  
+  .footer-customer {
+    padding: 2vh;
+    text-align: center;
+  }
+  .footer {
+    background-color: #3d3c3c !important;
+    color: black;
+    padding-top: 1vh;
+    font-family: "Montserrat", sans-serif;
+    text-align: center !important;
+  }
